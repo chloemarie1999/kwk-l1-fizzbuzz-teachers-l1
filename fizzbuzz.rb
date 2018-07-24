@@ -8,7 +8,11 @@ def fizzbuzz(int)
   end
 end
 
+
+puts "Please enter a number."
+fizzbuzz(int)=gets.to_i
 # puts "Please enter a number."
 # fizzbuzz(int)=gets.to_i
 
 # puts fizzbuzz
+puts fizzbuzz
