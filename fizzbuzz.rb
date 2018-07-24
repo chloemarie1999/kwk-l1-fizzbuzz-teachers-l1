@@ -10,7 +10,7 @@ end
 
 
 puts "Please enter a number."
-fizzbuzz(int)==gets.to_i
+fizzbuzz(gets.to_i)
 # puts "Please enter a number."
 # fizzbuzz(int)=gets.to_i
 
